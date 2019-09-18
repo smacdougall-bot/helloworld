@@ -1,3 +1,2 @@
-Hello World! How are you today?
+helloworld.py is a Python script that prints the words 'Hello. git world!'
 
-This is a sentence I typed in via the web browser
